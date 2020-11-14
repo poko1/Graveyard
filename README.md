@@ -8,8 +8,7 @@ by providing inexpensive,time efficient platform.
 
 The first step of designing the automated system was designing the database using Entity Relationship diagram which includes entities with attributes, relational tables for connecting them and also ISA relationships, these ISA relationships are Deceased (includes known native, known foreigner, unknown) Database is implemented using Structured
 Query Language (SQL) on ORACLE 11g platform . And for Front End we have used PHP,HTML,CSS and JAVASCRIPT. User can access the data from the website where access to the data is limited according to user role. These restrictions have been implemented using different functions, view, trigger,
-virtual column and different constraints. The database is quite secured as it contains enough security and constraints to prevent unauthorized access so that the valuable and confidential
-information will be kept safe in the database. 
+virtual column and different constraints. The database is quite secured as it contains enough security and constraints to prevent unauthorized access so that the valuable and confidential information will be kept safe in the database. 
 
 
 The requirements for running the system are divided into two parts.  
@@ -17,6 +16,7 @@ The requirements for running the system are divided into two parts.
 1) Hardware Requirements: Hardware requirements are likely CPU2 x 1.6 GHz, RAM minimum 256 MB, and Disk space 20GB or higher (depends on the work load).  
 
 2) Software Requirements: Software requirements are Microsoft windows XP or higher version operating system,server, web browser. Some of the features that our system offers are:   
+
 i) Deceased list: The list of all the deceased in the graveyard will be accessible to see.  
 
 ii) Search Associated deceased: If any deceased has already any relative in that grave,that will also be available at the system.  
